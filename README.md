@@ -1,16 +1,13 @@
-# app_2
+# Chatbot
 
-A new Flutter project.
+A futuristic Flutter chatbot app powered by the Google Gemini API, featuring a sci-fi UI with neon gradients, glassmorphism, and animations.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **UI**: Neon gradients, Orbitron font, glassmorphism.
+- **Animations**: Message fade-in, slide, theme toggle rotation.
+- **Themes**: Light/dark modes with `shared_preferences`.
+- **Storage**: Chat history with `hive`.
+- **Accessibility**: Semantic labels for screen readers.
+- **Gemini API**: Natural language processing.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
